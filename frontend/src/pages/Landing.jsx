@@ -233,10 +233,10 @@ const Landing = () => {
                             <p className="text-xs font-semibold uppercase tracking-wide text-cyan-300">Book a demo</p>
                             <h2 className="mt-2 text-3xl font-bold">Bring AMS to your institution</h2>
                             <p className="mt-4 text-sm leading-6 text-blue-100">
-                                Connect with PASHAM MANIKANTAREDDY for a professional walkthrough of the platform, role flows, dashboards, and academic management capabilities.
+                                Connect with SEEMBHOTLA SAILESH for a professional walkthrough of the platform, role flows, dashboards, and academic management capabilities.
                             </p>
                             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
-                                <a href="mailto:pashammanikantareddy@gmail.com" className="btn-primary px-5 py-3">
+                                <a href="mailto:seembhotlasailesh@gmail.com" className="btn-primary px-5 py-3">
                                     <Mail size={18} /> Email
                                 </a>
                                 <a href="tel:+918074747773" className="inline-flex items-center justify-center gap-2 rounded-md border border-white/20 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10">
@@ -247,15 +247,15 @@ const Landing = () => {
                         <div className="grid gap-4 sm:grid-cols-3">
                             <div className="rounded-lg border border-white/10 bg-white/10 p-5">
                                 <p className="text-xs uppercase tracking-wide text-blue-200">Name</p>
-                                <p className="mt-3 font-semibold">PASHAM MANIKANTAREDDY</p>
+                                <p className="mt-3 font-semibold">SEEMBHOTLA SAILESH</p>
                             </div>
                             <div className="rounded-lg border border-white/10 bg-white/10 p-5">
                                 <p className="text-xs uppercase tracking-wide text-blue-200">Phone</p>
-                                <p className="mt-3 font-semibold">+91 8074747773</p>
+                                <p className="mt-3 font-semibold">+918019454228</p>
                             </div>
                             <div className="rounded-lg border border-white/10 bg-white/10 p-5">
                                 <p className="text-xs uppercase tracking-wide text-blue-200">Email</p>
-                                <p className="mt-3 break-words font-semibold">pashammanikantareddy@gmail.com</p>
+                                <p className="mt-3 break-words font-semibold">seembhotlasailesh@gmail.com</p>
                             </div>
                         </div>
                     </div>
